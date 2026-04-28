@@ -91,8 +91,6 @@
 * Power BI
 * DAX
 
----
-
-## 👤 Author
-
-**Rekaa**
+Rekaa
+📊 Aspiring Data Analyst
+🚀 Open to opportunities
