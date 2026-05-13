@@ -28,11 +28,11 @@
 
 ## 📌 Project Summary
 
-📊 This project analyzes **Maven Toys sales and inventory data** to uncover insights related to sales performance, product demand, inventory efficiency, profitability, and store performance.
+📊 This project analyzes Maven Toys sales and inventory data to uncover insights related to sales performance, product demand, inventory efficiency, profitability, and store performance.
 
-🎯 The dashboard was built using **Excel, Power BI, and DAX** to support data-driven business decisions through interactive visual analytics.
+🎯 The dashboard was built using Excel, Power BI, and DAX to support data-driven business decisions through interactive visual analytics.
 
-📌 The project contains **4 fully interactive dashboard pages**:
+📌 The project contains 4 fully interactive dashboard pages:
 
 * 📈 Sales & Growth Analysis
 * 📦 Product & Inventory Analysis
@@ -84,33 +84,33 @@
 
 ## 📊 Key Metrics
 
-* 💰 The business generated a total sales revenue of **$7.48M**.
-* 📦 A total of **549K units** were sold across multiple product categories.
-* 💵 The overall profit reached **$2.18M**, showing strong business performance.
-* 📉 A sales gap of nearly **$748K** was identified, indicating opportunities for revenue improvement.
+* 💰 The business generated a total sales revenue of $7.48M
+* 📦 A total of 549K units were sold across multiple product categories
+* 💵 The overall profit reached $2.18M, showing strong business performance
+* 📉 A sales gap of nearly $748K was identified, indicating opportunities for revenue improvement
 
 ---
 
 ## 🔍 Key Insights
 
-1. 🧸 Lego Bricks emerged as the top-performing product with **$1.33M revenue**.
-2. 🏬 The highest-performing store generated around **$293K in revenue**.
-3. 📦 Toys and Electronics together contributed nearly **66% of total revenue**.
-4. 📅 December recorded the highest sales performance with approximately **$877K revenue**.
-5. 📉 August showed the lowest sales performance at around **$489K**.
-6. ⚠️ Inventory mismatch was observed between stock availability and product demand.
-7. 📊 The business still has strong growth potential through inventory optimization and product strategy improvements.
+1. 🧸 Lego Bricks emerged as the top-performing product with $1.33M revenue
+2. 🏬 The highest-performing store generated around $293K in revenue
+3. 📦 Toys and Electronics together contributed nearly 66% of total revenue
+4. 📅 December recorded the highest sales performance with approximately $877K revenue
+5. 📉 August showed the lowest sales performance at around $489K
+6. ⚠️ Inventory mismatch was observed between stock availability and product demand
+7. 📊 The business still has strong growth potential through inventory optimization and product strategy improvements
 
 ---
 
 ## 📌 Conclusion
 
-* The business achieved strong overall performance with **$7.48M in sales revenue** and **$2.18M profit**.
-* Revenue generation is highly dependent on a few top-performing products and categories.
-* Seasonal sales patterns clearly influence monthly business performance.
-* Inventory inefficiencies and sales gaps highlight opportunities for operational improvement.
-* Interactive dashboards helped identify business trends, profitability drivers, and growth opportunities more effectively.
-* Data-driven strategies can help improve inventory management, store performance, and future revenue growth.
+* The business achieved strong overall performance with $7.48M in sales revenue and $2.18M profit
+* Revenue generation is highly dependent on a few top-performing products and categories
+* Seasonal sales patterns clearly influence monthly business performance
+* Inventory inefficiencies and sales gaps highlight opportunities for operational improvement
+* Interactive dashboards helped identify business trends, profitability drivers, and growth opportunities more effectively
+* Data-driven strategies can help improve inventory management, store performance, and future revenue growth
 
 ---
 
@@ -124,6 +124,6 @@
 
 ## 👤 Author
 
-**Rekaa**
+Rekaa
 📊 Aspiring Data Analyst
 🚀 Open to opportunities
