@@ -1,13 +1,14 @@
-# 🧸 Mexico Toys Sales Analysis 
+# 🧸 Mexico Toys Sales Analysis
 
 ## 📊 Dashboard Preview
 
-### 📍 Page 1 –  Sales & Growth Analysis
+### 📍 Page 1 – Sales & Growth Analysis
 
 <img width="2012" height="1125" alt="image" src="https://github.com/user-attachments/assets/2614874c-7f81-4fac-9ed4-4fe330b4b772" />
+
 ---
 
-### 📍 Page 2 – Project & Inventory Analysis
+### 📍 Page 2 – Product & Inventory Analysis
 
 <img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/f96a7ecc-14e1-45e3-81af-028e882aaa48" />
 
@@ -19,7 +20,7 @@
 
 ---
 
-### 📍 Page 4 –  Overview Dashboard
+### 📍 Page 4 – Overview Dashboard
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/0535ecb3-e952-49d2-b520-ab8dde8c5488" />
 
@@ -27,8 +28,23 @@
 
 ## 📌 Project Summary
 
-📊 This project analyzes **Maven Toys sales and inventory data** to uncover insights on performance, demand, and profitability.
-🎯 Built using **Excel & Power BI** for data-driven decision-making.
+📊 This project analyzes **Maven Toys sales and inventory data** to uncover insights related to sales performance, product demand, inventory efficiency, profitability, and store performance.
+
+🎯 The dashboard was built using **Excel, Power BI, and DAX** to support data-driven business decisions through interactive visual analytics.
+
+📌 The project contains **4 fully interactive dashboard pages**:
+
+* 📈 Sales & Growth Analysis
+* 📦 Product & Inventory Analysis
+* 🏬 Store & Profit Analysis
+* 📊 Overview Dashboard
+
+💡 The Overview Dashboard includes:
+
+* Interactive navigation buttons
+* Dynamic titles
+* KPI cards
+* Cross-filtering visuals for better user experience
 
 ---
 
@@ -54,34 +70,47 @@
 
 ---
 
+## ⚡ Tech Hacks
+
+* Built a 4-page interactive dashboard for detailed business analysis
+* Used DAX measures for KPI calculations and business metrics
+* Added interactive navigation buttons for smooth dashboard experience
+* Implemented dynamic titles for better report storytelling
+* Applied filters and slicers for interactive analysis
+* Analyzed inventory mismatch using sales vs stock comparison
+* Created business-focused visuals for sales, profit, and demand analysis
+
+---
+
 ## 📊 Key Metrics
 
-* 💰 Total Sales → **$7.48M**
-* 📦 Units Sold → **549K**
-* 💵 Profit → **$2.18M**
-* 📉 Sales Gap → **$748K**
+* 💰 The business generated a total sales revenue of **$7.48M**.
+* 📦 A total of **549K units** were sold across multiple product categories.
+* 💵 The overall profit reached **$2.18M**, showing strong business performance.
+* 📉 A sales gap of nearly **$748K** was identified, indicating opportunities for revenue improvement.
 
 ---
 
 ## 🔍 Key Insights
 
-1. 🧸 Lego Bricks leads with **$1.33M**
-2. 🏬 Top store → **$293K revenue**
-3. 📦 Toys & Electronics → **66% revenue share**
-4. 📅 December peak → **$877K**
-5. 📉 August lowest → **$489K**
-6. ⚠️ Inventory mismatch observed
-7. 📊 Growth potential exists
+1. 🧸 Lego Bricks emerged as the top-performing product with **$1.33M revenue**.
+2. 🏬 The highest-performing store generated around **$293K in revenue**.
+3. 📦 Toys and Electronics together contributed nearly **66% of total revenue**.
+4. 📅 December recorded the highest sales performance with approximately **$877K revenue**.
+5. 📉 August showed the lowest sales performance at around **$489K**.
+6. ⚠️ Inventory mismatch was observed between stock availability and product demand.
+7. 📊 The business still has strong growth potential through inventory optimization and product strategy improvements.
 
 ---
 
 ## 📌 Conclusion
 
-* Strong sales performance with **$7.48M revenue**
-* Dependency on limited products & categories
-* Seasonal sales pattern observed
-* Inventory inefficiency identified
-* Opportunity to improve revenue by **$748K gap**
+* The business achieved strong overall performance with **$7.48M in sales revenue** and **$2.18M profit**.
+* Revenue generation is highly dependent on a few top-performing products and categories.
+* Seasonal sales patterns clearly influence monthly business performance.
+* Inventory inefficiencies and sales gaps highlight opportunities for operational improvement.
+* Interactive dashboards helped identify business trends, profitability drivers, and growth opportunities more effectively.
+* Data-driven strategies can help improve inventory management, store performance, and future revenue growth.
 
 ---
 
@@ -91,6 +120,10 @@
 * Power BI
 * DAX
 
-Rekaa
+---
+
+## 👤 Author
+
+**Rekaa**
 📊 Aspiring Data Analyst
 🚀 Open to opportunities
