@@ -10,7 +10,7 @@
 
 ### 📍 Page 2 – Product & Inventory Analysis
 
-<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/f96a7ecc-14e1-45e3-81af-028e882aaa48" />
+<img width="1316" height="727" alt="image" src="https://github.com/user-attachments/assets/28da4a26-fcae-465f-a784-db2901afc6ac" />
 
 ---
 
